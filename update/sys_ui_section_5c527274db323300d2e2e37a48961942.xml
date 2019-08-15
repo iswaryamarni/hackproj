@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5c527274db323300d2e2e37a48961942" sys_domain="global" table="x_331821_hackproj_logintable" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>username</element>
+            <position>0</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-20 04:37:11</sys_created_on>
+            <sys_id>27e2f2b4db323300d2e2e37a48961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_331821_hackproj_logintable" sys_domain="global" view="Default view">5c527274db323300d2e2e37a48961942</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-20 04:37:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>password</element>
+            <position>1</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-20 04:37:11</sys_created_on>
+            <sys_id>a7e2f2b4db323300d2e2e37a48961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_331821_hackproj_logintable" sys_domain="global" view="Default view">5c527274db323300d2e2e37a48961942</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-20 04:37:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-20 04:37:11</sys_created_on>
+            <sys_id>2be2f2b4db323300d2e2e37a48961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_331821_hackproj_logintable" sys_domain="global" view="Default view">5c527274db323300d2e2e37a48961942</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-20 04:37:11</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_331821_hackproj_logintable</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-20 04:34:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c527274db323300d2e2e37a48961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_331821_hackproj_logintable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+            <sys_update_name>sys_ui_section_5c527274db323300d2e2e37a48961942</sys_update_name>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-20 04:34:30</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

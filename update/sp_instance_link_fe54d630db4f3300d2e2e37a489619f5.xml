@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>info</color>
+        <css/>
+        <glyph>envelope</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>click here to read student magazine</short_description>
+        <size>md</size>
+        <sp_column display_value="2">e4545634db4f3300d2e2e37a4896197f</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-08-01 12:39:17</sys_created_on>
+        <sys_id>fe54d630db4f3300d2e2e37a489619f5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>K L Student Magazine</sys_name>
+        <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+        <sys_update_name>sp_instance_link_fe54d630db4f3300d2e2e37a489619f5</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-08-01 13:39:12</sys_updated_on>
+        <title>K L Student Magazine</title>
+        <type>url</type>
+        <url>https://www.kluniversity.in/Student-Magazine.aspx</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe54d630db4f3300d2e2e37a489619f5"/>
+</record_update>

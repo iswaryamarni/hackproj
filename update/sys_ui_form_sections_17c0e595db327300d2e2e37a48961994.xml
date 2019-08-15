@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="17c0e595db327300d2e2e37a48961994" sys_domain="global" table="x_331821_hackproj_form1" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-21 11:55:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7c0e595db327300d2e2e37a48961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_331821_hackproj_form1" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">17c0e595db327300d2e2e37a48961994</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">60c15c55db7e3300d2e2e37a48961974</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-21 11:55:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-21 11:55:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3c0e595db327300d2e2e37a48961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_331821_hackproj_form1" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">17c0e595db327300d2e2e37a48961994</sys_ui_form>
+            <sys_ui_section caption="CLASSROOMS" display_value="CLASSROOMS" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">53c0e595db327300d2e2e37a48961993</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-21 11:55:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-21 12:14:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e15a159db327300d2e2e37a489619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_331821_hackproj_form1" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">17c0e595db327300d2e2e37a48961994</sys_ui_form>
+            <sys_ui_section caption="LABS" display_value="LABS" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">c215a159db327300d2e2e37a489619ea</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-21 12:14:04</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-26 13:54:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e1ce772db723300d2e2e37a48961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_331821_hackproj_form1" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">17c0e595db327300d2e2e37a48961994</sys_ui_form>
+            <sys_ui_section caption="MeetingHouse" display_value="MeetingHouse" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">0e1ca772db723300d2e2e37a48961949</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-26 13:54:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-26 13:54:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>461ce772db723300d2e2e37a48961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_331821_hackproj_form1" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">17c0e595db327300d2e2e37a48961994</sys_ui_form>
+            <sys_ui_section caption="Elevators" display_value="Elevators" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">0e1ce772db723300d2e2e37a4896194f</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-26 13:54:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-26 13:54:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a1ce772db723300d2e2e37a4896195c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_331821_hackproj_form1" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">17c0e595db327300d2e2e37a48961994</sys_ui_form>
+            <sys_ui_section caption="FacultyCabins" display_value="FacultyCabins" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">c21ce772db723300d2e2e37a48961950</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-26 13:54:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-26 13:54:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>461ce772db723300d2e2e37a48961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_331821_hackproj_form1" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">17c0e595db327300d2e2e37a48961994</sys_ui_form>
+            <sys_ui_section caption="Washrooms" display_value="Washrooms" name="x_331821_hackproj_form1" sys_domain="global" view="Default view">8a1ce772db723300d2e2e37a48961950</sys_ui_section>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-26 13:54:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_331821_hackproj_form1</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-21 11:55:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17c0e595db327300d2e2e37a48961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_331821_hackproj_form1</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_17c0e595db327300d2e2e37a48961994</sys_update_name>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-21 11:55:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

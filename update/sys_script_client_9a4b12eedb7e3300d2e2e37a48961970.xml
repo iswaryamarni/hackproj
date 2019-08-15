@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_choice_5</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>onchange(labs)</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+
+  var n=g_form.getValue('u_choice_5');
+                g_form.setDisplay('u_choice_6',false);
+		g_form.setDisplay('u_choice_7',false);
+		g_form.setDisplay('u_choice_8',false);
+		g_form.setDisplay('u_choice_9',false);
+		g_form.setDisplay('u_choice_10',false);
+		g_form.setDisplay('u_choice_11',false);
+	
+	switch(n){
+		case "1":
+			
+			g_form.setDisplay('u_choice_4',true);
+			break;
+		case "2":
+                g_form.setDisplay('u_choice_4',true);
+		g_form.setDisplay('u_choice_6',true);
+		break;
+               case "3":
+                g_form.setDisplay('u_choice_4',true);
+		g_form.setDisplay('u_choice_7',true);
+		g_form.setDisplay('u_choice_6',true);
+                   break;
+              case "4":
+                g_form.setDisplay('u_choice_4',true);
+		g_form.setDisplay('u_choice_8',true);
+		g_form.setDisplay('u_choice_6',true);
+                g_form.setDisplay('u_choice_7',true);
+                   break;
+              case "5":
+                g_form.setDisplay('u_choice_4',true);
+		g_form.setDisplay('u_choice_9',true);
+		g_form.setDisplay('u_choice_6',true);
+                g_form.setDisplay('u_choice_7',true);
+                g_form.setDisplay('u_choice_8',true);
+                   break;
+              case "6":
+                    g_form.setDisplay('u_choice_10',true);
+                     g_form.setDisplay('u_choice_4',true);
+		g_form.setDisplay('u_choice_9',true);
+		g_form.setDisplay('u_choice_6',true);
+                g_form.setDisplay('u_choice_7',true);
+                g_form.setDisplay('u_choice_8',true);
+			break;
+  case "7":
+                    g_form.setDisplay('u_choice_10',true);
+                     g_form.setDisplay('u_choice_4',true);
+		g_form.setDisplay('u_choice_9',true);
+		g_form.setDisplay('u_choice_6',true);
+                g_form.setDisplay('u_choice_7',true);
+                g_form.setDisplay('u_choice_8',true);
+               g_form.setDisplay('u_choice_11',true);
+			break;
+            default:
+                 g_form.setDisplay('u_choice_4',true);
+			      break;
+}
+	
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-07-25 13:30:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9a4b12eedb7e3300d2e2e37a48961970</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>onchange(labs)</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+        <sys_update_name>sys_script_client_9a4b12eedb7e3300d2e2e37a48961970</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-07-25 13:36:49</sys_updated_on>
+        <table>x_331821_hackproj_form1</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

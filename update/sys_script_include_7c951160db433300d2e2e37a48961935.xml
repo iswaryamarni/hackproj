@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_331821_hackproj.include1</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>include1</name>
+        <script><![CDATA[function include1(x,y){
+	gs.addInfoMessage(x);
+	gs.addErrorMessage(y);
+	
+	return false;
+	
+	
+	
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-07-31 13:27:33</sys_created_on>
+        <sys_id>7c951160db433300d2e2e37a48961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>include1</sys_name>
+        <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+        <sys_update_name>sys_script_include_7c951160db433300d2e2e37a48961935</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-07-31 13:27:33</sys_updated_on>
+    </sys_script_include>
+</record_update>

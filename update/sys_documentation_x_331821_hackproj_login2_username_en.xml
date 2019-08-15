@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="username" label="Username" language="en" table="x_331821_hackproj_login2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>username</element>
+            <help/>
+            <hint/>
+            <label>Username</label>
+            <language>en</language>
+            <name>x_331821_hackproj_login2</name>
+            <plural>Usernames</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-20 17:57:53</sys_created_on>
+            <sys_id>a83aa505dbf63300d2e2e37a4896197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Username</sys_name>
+            <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+            <sys_update_name>sys_documentation_x_331821_hackproj_login2_username_en</sys_update_name>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-20 17:57:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

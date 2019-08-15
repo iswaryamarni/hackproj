@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="mainhome">49f342f4db0f3300d2e2e37a489619f8</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page display_value="mainlog">bba9b41fdb7e3300d2e2e37a48961962</login_page>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-07-27 13:19:03</sys_created_on>
+        <sys_id>cf9c2017db7e3300d2e2e37a48961984</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>KLMaintenance</sys_name>
+        <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+        <sys_update_name>sp_portal_cf9c2017db7e3300d2e2e37a48961984</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-08-01 13:35:18</sys_updated_on>
+        <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
+        <title>KLMaintenance</title>
+        <url_suffix>klmaintenance</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=cf9c2017db7e3300d2e2e37a48961984"/>
+</record_update>

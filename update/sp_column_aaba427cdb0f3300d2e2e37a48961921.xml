@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>2</order>
+        <size>6</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">deba0278db0f3300d2e2e37a489619ef</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-08-01 11:57:12</sys_created_on>
+        <sys_id>aaba427cdb0f3300d2e2e37a48961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+        <sys_update_name>sp_column_aaba427cdb0f3300d2e2e37a48961921</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-08-01 11:57:12</sys_updated_on>
+    </sp_column>
+</record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css>section.page{&#13;
+background-image: url(homepage_bkgd.jpgx);&#13;
+background-repeat: no-repeat;&#13;
+-webkit-background-size: cover;&#13;
+-moz-background-size: cover;&#13;
+-o-background-size: cover;&#13;
+background-size: cover;&#13;
+background-position: center center;&#13;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>mainlog</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-07-27 14:12:39</sys_created_on>
+        <sys_id>bba9b41fdb7e3300d2e2e37a48961962</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>mainlog</sys_name>
+        <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+        <sys_update_name>sp_page_bba9b41fdb7e3300d2e2e37a48961962</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-07-27 14:34:50</sys_updated_on>
+        <title>mainlog</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=bba9b41fdb7e3300d2e2e37a48961962"/>
+</record_update>

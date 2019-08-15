@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="examsection" max_length="40" name="x_331821_hackproj_examsection" sizeclass="7" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="email" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="EMAILID" max_length="40" name="u_string_2" type="string"/>
+    </element>
+</database>

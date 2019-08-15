@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_10" table="x_331821_hackproj_form1" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_10</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>projectors</label>
+            <language>en</language>
+            <name>x_331821_hackproj_form1</name>
+            <sequence>0</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-25 13:08:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57f7de2edb7e3300d2e2e37a489619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-25 13:08:50</sys_updated_on>
+            <value>projectors</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_10</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>lights</label>
+            <language>en</language>
+            <name>x_331821_hackproj_form1</name>
+            <sequence>1</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-25 13:08:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97f7de2edb7e3300d2e2e37a489619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-25 13:08:50</sys_updated_on>
+            <value>lights</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_10</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>fans</label>
+            <language>en</language>
+            <name>x_331821_hackproj_form1</name>
+            <sequence>2</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-25 13:08:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17f7de2edb7e3300d2e2e37a489619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-25 13:08:50</sys_updated_on>
+            <value>fans</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_10</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>modem</label>
+            <language>en</language>
+            <name>x_331821_hackproj_form1</name>
+            <sequence>3</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-25 13:08:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93f7de2edb7e3300d2e2e37a489619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-25 13:08:50</sys_updated_on>
+            <value>modem</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_10</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>router</label>
+            <language>en</language>
+            <name>x_331821_hackproj_form1</name>
+            <sequence>4</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-25 13:08:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13f7de2edb7e3300d2e2e37a489619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-25 13:08:50</sys_updated_on>
+            <value>router</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_10</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>desks</label>
+            <language>en</language>
+            <name>x_331821_hackproj_form1</name>
+            <sequence>5</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-25 13:08:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ff7de2edb7e3300d2e2e37a489619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-25 13:08:50</sys_updated_on>
+            <value>desks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_10</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>chairs</label>
+            <language>en</language>
+            <name>x_331821_hackproj_form1</name>
+            <sequence>6</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-25 13:08:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ff7de2edb7e3300d2e2e37a489619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-25 13:08:50</sys_updated_on>
+            <value>chairs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_10</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CPU</label>
+            <language>en</language>
+            <name>x_331821_hackproj_form1</name>
+            <sequence>7</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-25 13:08:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bf7de2edb7e3300d2e2e37a489619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-25 13:08:50</sys_updated_on>
+            <value>cpu</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_10</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Monitor</label>
+            <language>en</language>
+            <name>x_331821_hackproj_form1</name>
+            <sequence>8</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-25 13:08:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1bf7de2edb7e3300d2e2e37a489619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-25 13:08:50</sys_updated_on>
+            <value>monitor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_10</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mouse</label>
+            <language>en</language>
+            <name>x_331821_hackproj_form1</name>
+            <sequence>9</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-25 13:08:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97f7de2edb7e3300d2e2e37a489619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-25 13:08:50</sys_updated_on>
+            <value>mouse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_10</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Keyboard</label>
+            <language>en</language>
+            <name>x_331821_hackproj_form1</name>
+            <sequence>10</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-25 13:08:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17f7de2edb7e3300d2e2e37a489619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-25 13:08:50</sys_updated_on>
+            <value>keyboard</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_10</element>
+            <name>x_331821_hackproj_form1</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-25 13:08:50</sys_created_on>
+            <sys_id>9ff7de2edb7e3300d2e2e37a489619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_10</sys_name>
+            <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+            <sys_update_name>sys_choice_x_331821_hackproj_form1_u_choice_10</sys_update_name>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-25 13:08:50</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

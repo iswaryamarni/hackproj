@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_331821_hackproj.examsection_user" name="x_331821_hackproj.examsection_user">032bb113db327300d2e2e37a48961964</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-07-27 18:58:23</sys_created_on>
+        <sys_id>0b2bb197db327300d2e2e37a48961942</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>032bb113db327300d2e2e37a48961964</sys_name>
+        <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0b2bb197db327300d2e2e37a48961942</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-07-27 18:58:23</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

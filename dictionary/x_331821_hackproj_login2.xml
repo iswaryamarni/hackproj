@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="login2" max_length="40" name="x_331821_hackproj_login2" type="collection">
+        <element label="password" max_length="40" name="password" type="string"/>
+        <element label="username" max_length="40" name="username" type="string"/>
+    </element>
+</database>

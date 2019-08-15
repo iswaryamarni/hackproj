@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>u_glide_date_time_1</element>
+        <name>x_331821_hackproj_form1</name>
+        <style>color:steelblue;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>isu</sys_created_by>
+        <sys_created_on>2019-08-01 17:18:09</sys_created_on>
+        <sys_id>ba141f3cdbcf3300d2e2e37a4896192d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_331821_hackproj_form1</sys_name>
+        <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+        <sys_update_name>sys_ui_style_ba141f3cdbcf3300d2e2e37a4896192d</sys_update_name>
+        <sys_updated_by>isu</sys_updated_by>
+        <sys_updated_on>2019-08-01 17:23:39</sys_updated_on>
+        <value/>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=ba141f3cdbcf3300d2e2e37a4896192d"/>
+</record_update>

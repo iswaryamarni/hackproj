@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="priority" table="x_331821_hackproj_examsection" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bonafide</label>
+            <language>en</language>
+            <name>x_331821_hackproj_examsection</name>
+            <sequence>0</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-31 12:46:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d55cc5e8db033300d2e2e37a489619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-31 12:46:08</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>coursecompletion</label>
+            <language>en</language>
+            <name>x_331821_hackproj_examsection</name>
+            <sequence>1</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-31 12:46:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>955cc5e8db033300d2e2e37a489619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-31 12:46:08</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-TBDVALUE-3</label>
+            <language>en</language>
+            <name>x_331821_hackproj_examsection</name>
+            <sequence>2</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-31 12:46:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>955c09e8db033300d2e2e37a48961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-31 12:46:08</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-TBDVALUE-4</label>
+            <language>en</language>
+            <name>x_331821_hackproj_examsection</name>
+            <sequence>3</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-31 12:46:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>515c09e8db033300d2e2e37a48961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-31 12:46:08</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-TBDVALUE-5</label>
+            <language>en</language>
+            <name>x_331821_hackproj_examsection</name>
+            <sequence>4</sequence>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-31 12:46:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d5c09e8db033300d2e2e37a48961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-31 12:46:08</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <name>x_331821_hackproj_examsection</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>isu</sys_created_by>
+            <sys_created_on>2019-07-31 12:46:08</sys_created_on>
+            <sys_id>515cc5e8db033300d2e2e37a489619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>priority</sys_name>
+            <sys_package display_value="hackproj" source="x_331821_hackproj">ed20fa70db323300d2e2e37a4896193c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="hackproj">ed20fa70db323300d2e2e37a4896193c</sys_scope>
+            <sys_update_name>sys_choice_x_331821_hackproj_examsection_priority</sys_update_name>
+            <sys_updated_by>isu</sys_updated_by>
+            <sys_updated_on>2019-07-31 12:46:08</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
